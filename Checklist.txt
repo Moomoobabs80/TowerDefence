@@ -1,0 +1,30 @@
+[]Health
+  []Add Enemy Health
+  []Add Base Health NF
+
+[]Damage 
+  []Add Enemy Damage
+  []Add Bullet Damage
+
+[]Base
+  []Make a Base NF
+
+[]Tower
+  []Make more Towers
+  []Make Placeable Towers
+
+[]Enemy
+  []Multiple Enemy Types
+
+[]Sprites
+  []Make Sprite for the Base
+  []Make Sprite for Enemies
+  []Make Sprite for Tower
+  []Make Sprite for Bullets
+
+Do By 3/8
+[]Health NF
+  []Add Base Health
+
+[]Base
+  []Make a Base NF
